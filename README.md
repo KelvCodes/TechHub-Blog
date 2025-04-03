@@ -27,7 +27,6 @@ A **modern and responsive** blog platform built with **React**! Stay updated wit
 | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | Frontend framework |
 | ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | Styling and layout |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Frontend logic |
-| ![REST API](https://img.shields.io/badge/API-0088CC?style=for-the-badge&logo=api&logoColor=white) | Fetching live crypto data |
 
 ---
 
