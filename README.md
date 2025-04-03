@@ -33,7 +33,7 @@ A **modern and responsive** blog platform built with **React**! Stay updated wit
 ## 🚀 How to Use 
 1️⃣ **Explore Articles** – Browse through the latest tech blogs. 📰  
 
-2️⃣  
+2️⃣  **Search & Filter** – Find posts by categories or keywords. 🔍
 3️⃣   **Check Coin Details** – Click on a coin for historical data and insights. 📈  
 
 4️⃣ **Dark Mode Toggle** – Switch between light & dark themes. 🌙
