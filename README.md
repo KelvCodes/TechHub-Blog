@@ -10,7 +10,7 @@ A **modern and responsive** blog platform built with **React**! Stay updated wit
 - ✅ ** 🔍 Search & Filter** – Find articles quickly by category or keywords.
 - ✅ ** 📂 Categories & Tags** – Organize posts for easy navigation.  
 - ✅ **📉 Price Charts** – View historical trends of your favorite coins.  
-- ✅ **🌙 Dark Mode** – A stylish dark theme for better viewing.
+.
 - ✅ **📢 Social Sharing** – Share your favorite posts on social media. 
 
   
