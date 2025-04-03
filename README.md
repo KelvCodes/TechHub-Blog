@@ -54,7 +54,7 @@ A **modern and responsive** blog platform built with **React**! Stay updated wit
 
 ## 🤝 Contributing  
 
-Want to make Tech even better? We’d love your help! 💡  
+Want to make TechHub even better? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  
