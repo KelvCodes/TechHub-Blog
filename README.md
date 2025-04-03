@@ -35,7 +35,7 @@ A **modern and responsive** blog platform built with **React**! Stay updated wit
 
 2️⃣  **Search & Filter** – Find posts by categories or keywords. 🔍
 3️⃣  **Share Posts** – Spread knowledge on social media! 📢  
-4️⃣ **Dark Mode Toggle** – Switch between light & dark themes. 🌙
+
 
 
 ---
