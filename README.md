@@ -7,7 +7,7 @@ A **modern and responsive** blog platform built with **React**! Stay updated wit
 ## 🌟 Features  
 - ✅ **📰 Dynamic Blog Posts** – Read and publish tech articles effortlessly.   
 - ✅ ** 🎨 Beautiful UI** – Clean, modern, and fully responsive design.  
-- ✅ **
+- ✅ ** 🔍 Search & Filter** – Find articles quickly by category or keywords.
 - ✅ **🎭 Smooth Animations** – A sleek, modern UI with beautiful transitions.  
 - ✅ **📉 Price Charts** – View historical trends of your favorite coins.  
 - ✅ **🌙 Dark Mode** – A stylish dark theme for better viewing.
