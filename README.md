@@ -44,7 +44,7 @@ A **modern and responsive** blog platform built with **React**! Stay updated wit
 
 1. Clone this repository to your local machine:  
    ```bash  
-   git clone https://github.com/yourusername/techub-blog.git
+   git clone https://github.com/yourusername/techhub-blog.git
    ```  
 
 2. Open the `index.html` file in your favorite web browser. 🌐  
