@@ -31,7 +31,7 @@ A **modern and responsive** blog platform built with **React**! Stay updated wit
 ---
 
 ## 🚀 How to Use 
-1️⃣ 
+1️⃣ **Explore Articles** – Browse through the latest tech blogs. 📰  
 
 2️⃣ **View Market Trends** – Get live updates on prices and market caps. 📊  
 3️⃣   **Check Coin Details** – Click on a coin for historical data and insights. 📈  
