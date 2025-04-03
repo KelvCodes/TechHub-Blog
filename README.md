@@ -11,7 +11,7 @@ A **modern and responsive** blog platform built with **React**! Stay updated wit
 - ✅ ** 📂 Categories & Tags** – Organize posts for easy navigation.  
 - ✅ **📉 Price Charts** – View historical trends of your favorite coins.  
 - ✅ **🌙 Dark Mode** – A stylish dark theme for better viewing.
-- ✅ **🔗 Social Footer** – Follow us on YouTube, LinkedIn, and Instagram!  
+- ✅ ** 
 
   
 ---      
